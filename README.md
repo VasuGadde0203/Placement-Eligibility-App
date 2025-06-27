@@ -47,7 +47,7 @@ Shows:
 ## Setup Instructions
 
 ### 1. Clone the Repository
-- git clone <repository-url>
+- git clone [<repository-url>](https://github.com/VasuGadde0203/Placement-Eligibility-App.git)
 - cd placement_eligibility_project
 
 ### 2.  Install Dependencies
@@ -131,9 +131,9 @@ placement_eligibility_project/
 
 ## Contact
 - For feature requests, contributions, or issues, please open an issue or contact me.
-- Name: Vasu Gadde
-- Mob No: +91 8793307218
-- Email: vasugadde0203@gmail.com
+- **Name:** Vasu Gadde
+- **Mob No:** +91 8793307218
+- **Email:** vasugadde0203@gmail.com
 
 ## License
 - This project is licensed under the MIT License. See LICENSE for more details.
